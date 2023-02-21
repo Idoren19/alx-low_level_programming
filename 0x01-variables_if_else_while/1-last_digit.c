@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - A main function
  * Return: 0
  */
 
