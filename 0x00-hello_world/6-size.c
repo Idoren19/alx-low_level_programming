@@ -1,8 +1,10 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - various types of computer
  * Return: 0
  */
+
+int main(void)
 {
 	printf("size of char: %lu byte(s)\n", sizeof(char));
 	printf("size of int: %lu byte(s)\n", sizeof(int));
